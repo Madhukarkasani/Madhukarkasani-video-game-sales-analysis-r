@@ -48,7 +48,7 @@ This project analyzes global video game sales to uncover trends, patterns, and p
 
 ## 📊 Sample Visualizations
 
-*(Optional: Add screenshots of your ggplot or correlation heatmaps if available)*
+![vgsales](1.jpeg) ![vgsales](2.jpeg) ![vgsales](3.jpeg) ![vgsales](4.jpeg) ![vgsales](5.jpeg) ![vgsales](6.jpeg) ![vgsales](7.jpeg) ![vgsales](8.jpeg) ![vgsales](9.jpeg)
 
 ---
 
