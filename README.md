@@ -49,7 +49,7 @@ This project analyzes global video game sales to uncover trends, patterns, and p
 ## 📊 Sample Visualizations
 
 ### ### Distribution of Year
-![Distribution of Release Year]("W:\Webster\Fall 2 2023\R Programming\projects\1.jpeg")
+![Distribution of Release Year](1.jpeg)
 ---
 
 ## ✅ How to Run
