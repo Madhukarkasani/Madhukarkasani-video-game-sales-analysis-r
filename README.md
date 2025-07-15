@@ -48,8 +48,8 @@ This project analyzes global video game sales to uncover trends, patterns, and p
 
 ## 📊 Sample Visualizations
 
-![vgsales](1.jpeg) ![vgsales](2.jpeg) ![vgsales](3.jpeg) ![vgsales](4.jpeg) ![vgsales](5.jpeg) ![vgsales](6.jpeg) ![vgsales](7.jpeg) ![vgsales](8.jpeg) ![vgsales](9.jpeg)
-
+### ### Distribution of Year
+![Distribution of Release Year]("W:\Webster\Fall 2 2023\R Programming\projects\1.jpeg")
 ---
 
 ## ✅ How to Run
