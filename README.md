@@ -49,7 +49,9 @@ This project analyzes global video game sales to uncover trends, patterns, and p
 ## 📊 Sample Visualizations
 
 ### ### Distribution of Year
-![Distribution of Release Year](1.jpeg)
+![Distribution of Release Year](Distribution of Release Year.jpeg)
+
+
 ---
 
 ## ✅ How to Run
